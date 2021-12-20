@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aqilhussain03
-- 👀 I’m interested in CyberSecurity, Blockchain Developer , Cryptocurrency
-- 🌱 I’m currently learning HTML,CSS,Javascript , Solidity
-- 💞️ I’m looking to collaborate on Blockchain Smart Contracts
+- 👀 I’m interested in NFT, CyberSecurity, Blockchain Developer , Cryptocurrency
+- 🌱 I’m currently learning HTML,CSS,Javascript,Solidity
+- 💞️ I’m looking to collaborate on Blockchain , NFT ,Smart Contracts
 - 📫 How to reach me 
-- Twitter : @AqilHus05969615
+- Twitter : @aqil_nft
 - Insta : @aqilhussain03
 - Telegram : @aqilhussain
 
